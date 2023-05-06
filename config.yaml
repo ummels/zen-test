@@ -10,8 +10,7 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Fredrik Jonsson"
-  url: "https://xdeb.org"
+  name: "Michael Ummels"
 
 markup:
   goldmark:
